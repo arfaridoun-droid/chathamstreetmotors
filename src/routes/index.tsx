@@ -9,7 +9,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Part worn tyres in Reading from Continental, Michelin & Pirelli. Budget new tyres, same-day tyre fitting, car diagnostics & servicing. Walk-ins welcome Mon–Sat 8:30am–6pm. 114–116 Chatham Street, Reading RG1. WhatsApp 07401 339908.",
+          "Part worn tyres in Reading from Continental, Michelin & Pirelli. Budget new tyres, same-day tyre fitting, car diagnostics & servicing. Walk-ins welcome Mon–Sat 8:30am–6pm. 114–116 Chatham Street, Reading RG1. WhatsApp 07401 338809.",
       },
     ],
   }),
